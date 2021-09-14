@@ -1,0 +1,112 @@
+
+/* ADMIN_PAGE */
+
+.side-pad{
+    padding-left: 0px;
+}
+
+.sidebar-my{
+    width: 200px;
+    height: 100%;
+    background: #212020;
+}
+
+.sidebar-my-status{
+    height: 100vh !important;
+}
+
+
+.sidebar-my .sidebar-my-inner{
+    padding-top: 170px;
+}
+
+.admin-right{
+    padding-top: 170px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sidebar-my .sidebar-my-inner ul a{
+    font-size: 15px;
+    color: white;
+
+}
+
+.sidebar-my .sidebar-my-inner ul li{
+
+    padding: 10px;
+}
+
+.admin-right .products-status-hea{
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    background: #0000004d;
+    font-weight: 500;
+}
+
+.admin-right .card-body-p1{
+    display: flex;
+    align-items: baseline;
+    padding: 0px 20px;
+}
+
+.admin-right .card-body h5{
+    color: rgb(255, 255, 255);
+}
+
+.succ-app{
+    color: lime;
+   background: #00ffff00;
+   border: none;
+   font-weight: 600;
+}
+
+.succ-app:hover{
+    color: lime;
+   background: #00ffff00;
+   border: none;
+   font-weight: 600;
+}
+
+.rej-btn{
+    color: #af0000;
+    background: #00ffff00;
+    border: none;
+    font-weight: 600;
+}
+
+.rej-btn:hover{
+    color: #af0000;
+    background: #00ffff00;
+    border: none;
+    font-weight: 600;
+}
+
+
+/*------- RESTAURANT_PAGE */
+
+.Restaurant-card{
+     color: black;
+}
+
+.Restaurant-card h5{
+    color: black !important;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.Restaurant-card .rest-about{
+    margin-top: 10px !important;
+}
+
+
+/* PRODUCTS_PAGE */
+
+
+.pro2-hea{
+    color: black !important;
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 0px;
+   padding-bottom: 0;
+}
